@@ -1,13 +1,13 @@
-# Core dependencies - all free and open source
+# Alternative with scikit-learn
 streamlit==1.36.0
 pandas==2.2.0
 numpy==1.26.4
 plotly==5.18.0
+scikit-learn==1.5.0
+scipy==1.12.0
 prophet==1.1.5
 statsmodels==0.14.1
-scikit-learn==1.4.2
 python-dotenv==1.0.1
 pyyaml==6.0.1
 openai==1.12.0
 requests==2.31.0
-scipy==1.12.0
